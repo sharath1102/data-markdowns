@@ -1,2 +1,2 @@
 # data-markdowns
-Noting types of markdowns in jupyter
+Noting types of markdowns in jupyter.
